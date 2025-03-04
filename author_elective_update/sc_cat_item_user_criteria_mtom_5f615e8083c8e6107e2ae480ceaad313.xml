@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Create a NeedIt Request ">d00a0e088388e6107e2ae480ceaad325</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-26 07:25:22</sys_created_on>
+        <sys_id>5f615e8083c8e6107e2ae480ceaad313</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create a NeedIt Request .Users with 'Admin' Role</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_5f615e8083c8e6107e2ae480ceaad313</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-26 07:25:22</sys_updated_on>
+        <user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3e76c2591b8271d81024eb9b2d4bcb74</instance_id>
+        <instance_name>dev192925</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_5f615e8083c8e6107e2ae480ceaad313</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Create a NeedIt Request ">d00a0e088388e6107e2ae480ceaad325</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-26 07:25:22</sys_created_on><sys_id>5f615e8083c8e6107e2ae480ceaad313</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create a NeedIt Request .Users with 'Admin' Role</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_5f615e8083c8e6107e2ae480ceaad313</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-26 07:25:22</sys_updated_on><user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-644751571</payload_hash>
+        <record_name>Create a NeedIt Request .Users with 'Admin' Role</record_name>
+        <reverted_from/>
+        <source>1970e631833712107e2ae480ceaad3d5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-26 07:25:22</sys_created_on>
+        <sys_id>1b615e8083c8e6107e2ae480ceaad317</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19541255bff0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-26 07:25:22</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>5b615e8038c8e6104fe6aa1421cbf916</update_guid>
+        <update_guid_history>5b615e8038c8e6104fe6aa1421cbf916:-644751571</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create a NeedIt Request .Users with 'Admin' Role">2c715e8083c8e6107e2ae480ceaad393</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-26 07:25:27</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>26da905c59474640a1ae3c30cdf65840</sys_id>
+        <sys_metadata>5f615e8083c8e6107e2ae480ceaad313</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create a NeedIt Request .Users with 'Admin' Role</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_5f615e8083c8e6107e2ae480ceaad313</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_5f615e8083c8e6107e2ae480ceaad313">1b615e8083c8e6107e2ae480ceaad317</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-26 07:25:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
